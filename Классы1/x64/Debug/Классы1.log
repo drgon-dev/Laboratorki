@@ -1,0 +1,3 @@
+﻿  Классы.cpp
+C:\Users\Micromax\Desktop\Лабы\Классы1\Классы.cpp(18,29): warning C4305: аргумент: усечение из "double" в "float"
+  Классы1.vcxproj -> C:\Users\Micromax\Desktop\Лабы\Классы1\x64\Debug\Классы1.exe
