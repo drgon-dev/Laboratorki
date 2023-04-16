@@ -1,0 +1,5 @@
+﻿  ХЭШ.cpp
+C:\Users\Micromax\Desktop\Лабы\ХЭШ\ХЭШ.cpp(13,7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Micromax\Desktop\Лабы\ХЭШ\ХЭШ.cpp(17,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Micromax\Desktop\Лабы\ХЭШ\ХЭШ.cpp(18,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  ХЭШ.vcxproj -> C:\Users\Micromax\Desktop\Лабы\ХЭШ\x64\Debug\ХЭШ.exe
