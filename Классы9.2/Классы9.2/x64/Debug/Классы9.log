@@ -1,0 +1,7 @@
+﻿  List.cpp
+  Main.cpp
+  Создание кода...
+C:\Users\Micromax\Desktop\Лабы\Классы9\List.cpp(13): warning C4172: возвращение адреса локальной или временной переменной : An
+C:\Users\Micromax\Desktop\Лабы\Классы9\List.cpp(52): warning C4172: возвращение адреса локальной или временной переменной : An
+C:\Users\Micromax\Desktop\Лабы\Классы9\List.cpp(24): warning C4172: возвращение адреса локальной или временной переменной : An
+  Классы9.vcxproj -> C:\Users\Micromax\Desktop\Лабы\Классы9\x64\Debug\Классы9.exe
