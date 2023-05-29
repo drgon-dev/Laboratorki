@@ -52,9 +52,16 @@ void Min_Elem(TMS v) {
 	v = m;
 }
 
+
 int main() {
-	TMS ms;
+	TMS ms; float n;
 	ms = make_set(5);
 	print_TMS(ms);
+	Add_Mid_Beg(ms);
+	print_TMS(ms);
+	cin >> n;
+	Find_Ers(ms,n);
+	print_TMS(ms);
+	Min_Elem(ms);
 	return 0;
 }
