@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-	system("color F0");
 	List<Money> l(3); Money Mn;
 	for (int i = 0; i < 3; i++) {
 		cin >> Mn;
